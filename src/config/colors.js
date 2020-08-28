@@ -29,7 +29,7 @@ export default {
       error: '#ff3b30',
       warning: '#ffcc00',
     },
-    android: {
+    default: {
       primary: '#2196f3',
       secondary: '#9C27B0',
       grey: 'rgba(0, 0, 0, 0.54)',
